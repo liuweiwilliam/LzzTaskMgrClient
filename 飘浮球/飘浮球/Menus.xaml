@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:飘浮球"
         xmlns:my="clr-namespace:CircumferenceRotatePanel2;assembly=CircumferenceRotatePanel2"
+        xmlns:lzzmenu="clr-namespace:LzzMenu;assembly=LzzMenu"
         mc:Ignorable="d"
         Title="Menus" Height="180" Width="180"
         AllowsTransparency="True"
@@ -13,8 +14,11 @@
         Background="Transparent">
     <Grid>
         <my:CircumferenceRotatePanel2  ShowMenu="True" IconWidthAndHeight="50" OperateType="MouseOperate" RotateNoumber="360" RotateSpeed="1" Height="180" Width="180">
-            <Image Source="images/logo.png" Height="50" Width="50" Canvas.Left="120" Canvas.Top="120" MouseDown="closeMenu"></Image>
-            <Image Source="images/logo.png" Height="50" Width="50"></Image>
+            <Image Source="images/cancel2.png" Height="50" Width="50" Canvas.Left="120" Canvas.Top="120" MouseDown="closeMenu"></Image>
+            <Border Height="50" Width="50" Background="Transparent" CornerRadius="50,50,50,50" MouseEnter="menuMouseEnter" MouseLeave="menuMouseLeave">
+                <lzzmenu:LzzMenu Height="50" Width="50"/>
+            </Border>
+            
             <Image Source="images/logo.png" Height="50" Width="50"></Image>
             <Image Source="images/logo.png" Height="50" Width="50"></Image>
             <Image Source="images/logo.png" Height="50" Width="50"></Image>

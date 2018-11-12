@@ -28,5 +28,17 @@ namespace 飘浮球
         {
             Close();
         }
+
+        private void menuMouseEnter(object sender, MouseEventArgs e)
+        {
+            Border border = (Border)sender;
+            border.Background = new SolidColorBrush(Colors.GreenYellow);
+        }
+
+        private void menuMouseLeave(object sender, MouseEventArgs e)
+        {
+            Border border = (Border)sender;
+            border.Background = new SolidColorBrush(Colors.Transparent);
+        }
     }
 }

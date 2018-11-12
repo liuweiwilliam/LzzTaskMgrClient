@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu_MarkupCompile.lref
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.dll
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.pdb
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\bin\Debug\LzzMenu.dll
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\bin\Debug\LzzMenu.pdb
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\Themes\Generic.baml
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.g.resources
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\LzzTaskMgrClient\飘浮球\LzzMenu\obj\Debug\LzzMenu.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:LzzMenu">
+    <Style TargetType="{x:Type local:LzzMenu}">
+        <Setter Property="NormalSource" Value=""></Setter>
+        <Setter Property="SelectSource" Value=""></Setter>
+        
+    </Style>
+</ResourceDictionary>

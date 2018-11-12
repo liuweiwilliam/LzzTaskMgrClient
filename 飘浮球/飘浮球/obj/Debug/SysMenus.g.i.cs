@@ -9,7 +9,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using CircumferenceRotatePanel2;
 using System;
 using System.Diagnostics;
 using System.Windows;

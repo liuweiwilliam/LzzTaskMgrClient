@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飘浮球", "飘浮球\飘浮球.csproj", "{B3EA1536-685B-4B62-AA92-A8D47C43841E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceRotatePanel2", "..\CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj", "{1B716FE4-44F5-466F-9919-DAD9D769CED6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceRotatePanel2", "CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj", "{1B716FE4-44F5-466F-9919-DAD9D769CED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LzzMenu", "LzzMenu\LzzMenu.csproj", "{1FB9EB82-D9AD-4F60-B754-1435043E25A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1B716FE4-44F5-466F-9919-DAD9D769CED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B716FE4-44F5-466F-9919-DAD9D769CED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B716FE4-44F5-466F-9919-DAD9D769CED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB9EB82-D9AD-4F60-B754-1435043E25A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB9EB82-D9AD-4F60-B754-1435043E25A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB9EB82-D9AD-4F60-B754-1435043E25A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB9EB82-D9AD-4F60-B754-1435043E25A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

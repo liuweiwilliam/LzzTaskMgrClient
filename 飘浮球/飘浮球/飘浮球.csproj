@@ -114,13 +114,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="images\logo.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="images\logo.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\logo.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\logo2.png" />
@@ -129,16 +123,32 @@
     <Resource Include="images\add.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Desktop\CircumferenceRotatePanel2\CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj">
-      <Project>{1b716fe4-44f5-466f-9919-dad9d769ced6}</Project>
-      <Name>CircumferenceRotatePanel2</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="images\exit.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj">
+      <Project>{1b716fe4-44f5-466f-9919-dad9d769ced6}</Project>
+      <Name>CircumferenceRotatePanel2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LzzMenu\LzzMenu.csproj">
+      <Project>{1fb9eb82-d9ad-4f60-b754-1435043e25a2}</Project>
+      <Name>LzzMenu</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\cancel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\logoBorder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\trans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
