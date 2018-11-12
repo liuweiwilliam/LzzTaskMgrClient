@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飘浮球", "飘浮球\飘浮球.csproj", "{B3EA1536-685B-4B62-AA92-A8D47C43841E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceRotatePanel2", "..\..\..\Desktop\CircumferenceRotatePanel2\CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj", "{1B716FE4-44F5-466F-9919-DAD9D769CED6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceRotatePanel2", "..\CircumferenceRotatePanel2\CircumferenceRotatePanel2.csproj", "{1B716FE4-44F5-466F-9919-DAD9D769CED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
